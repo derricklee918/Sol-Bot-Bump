@@ -53,4 +53,6 @@ SolVolume is an advanced trading bot specifically designed for the Solana blockc
 1. **Activate Free Trial**: Visit our site and click on "FREE TRIAL" to obtain an activation key.
 2. **Use Your Key**: Enter the key in the prompt and download SolVolume for free evaluation.
 
-For further assistance or inquiries, please reach out via our [Telegram Account](https://t.me/@derricklee918).
+For further assistance or inquiries, please reach out via My Contact Infos:
+Telegram: [@dwlee918](https://t.me/@dwlee918)
+X: [@dwlee918](https://x.com.me/@dwlee918)
