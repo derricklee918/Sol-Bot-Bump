@@ -1,7 +1,3 @@
-# To test or purchase the source code, contact @SolVolSupp_bot on Telegram
-# To test or purchase the source code, contact @SolVolSupp_bot on Telegram
-# To test or purchase the source code, contact @SolVolSupp_bot on Telegram
-
 import curses
 
 def main_menu(stdscr):
@@ -69,4 +65,3 @@ r"  \▓▓▓▓▓▓  \▓▓▓▓▓▓ \▓▓▓▓▓▓▓▓    \▓  
 if __name__ == "__main__":
     curses.wrapper(main_menu)
 
-# To test or purchase the source code, contact @SolVolSupp_bot on Telegram

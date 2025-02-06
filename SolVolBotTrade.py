@@ -1,6 +1,3 @@
-# To test or purchase the source code, contact @SolVolSupp_bot on Telegram
-# To test or purchase the source code, contact @SolVolSupp_bot on Telegram
-
 import requests
 import asyncio
 import pandas as pd
@@ -192,4 +189,3 @@ def start_trading():
     trading_sched.start()
     perform_analysis()
 
-# To test or purchase the source code, contact @SolVolSupp_bot on Telegram
